@@ -45,6 +45,6 @@ If this policy changes, updates will be posted in this file in the app's source 
 If you have questions about this privacy policy, please open an issue on the relevant repository:
 
 - Android: [github.com/DominikLindorfer/Point-Counter](https://github.com/DominikLindorfer/Point-Counter)
-- iOS: [github.com/phobo-at/padel-pulse](https://github.com/phobo-at/padel-pulse)
+- iOS: [github.com/phobits/padel-pulse](https://github.com/phobits/padel-pulse)
 
 *Last updated: April 2026*
